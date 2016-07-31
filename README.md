@@ -23,7 +23,7 @@ Once you finish the challenges, return to any stretches you haven't completed an
 
 Data Structures:
 
- 1. [Fixed Arrays](../../../Fixed Array)
+ 1. [Fixed Arrays](../../../Data-Structures/Fixed Array)
  *  [Array Lists](../../../data-structures-array-list-challenge)
  *  [Linked Lists](../../../data-structures-linked-list-challenge)
  *  [Stacks](../../../data-structures-stack-challenge)
