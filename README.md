@@ -24,13 +24,13 @@ Once you finish the challenges, return to any stretches you haven't completed an
 Data Structures:
 
  1. [Fixed Arrays](../../../Data-Structures/tree/master/Fixed Array)
- *  [Array Lists](../../../data-structures-array-list-challenge)
- *  [Linked Lists](../../../data-structures-linked-list-challenge)
- *  [Stacks](../../../data-structures-stack-challenge)
- *  [Queues](../../../data-structures-queue-challenge)
- *  [Trees](../../../data-structures-tree-challenge)
- *  [Graphs](../../../data-structures-graph-challenge)
- *  [Maps](../../../data-structures-maps-challenge)
- *  [Sets](../../../data-structures-set-challenge)
- *  [Hashes](../../../data-structures-hash-challenge)
+ *  [Array Lists](../../../Data-Structures/tree/master/Array Lists)
+ *  [Linked Lists](../../../Data-Structures/tree/master/Linked Lists)
+ *  [Stacks](../../../Data-Structures/tree/master/Stacks)
+ *  [Queues](../../../Data-Structures/tree/master/Queues)
+ *  [Trees](../../../Data-Structures/tree/master/Trees)
+ *  [Graphs](../../../Data-Structures/tree/master/Graphs)
+ *  [Maps](../../../Data-Structures/tree/master/Maps)
+ *  [Sets](../../../Data-Structures/tree/master/Sets)
+ *  [Hashes](../../../Data-Structures/tree/master/Hashes)
 
